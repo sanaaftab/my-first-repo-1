@@ -1,0 +1,9 @@
+# the .gitignore file 
+# specifies the name(s) of other files 
+# that we DONT want to track in version control 
+
+# clutter files / cached files:
+
+# The DS.Store one is just a mac file which can also be ignored. 
+.DS_Store 
+__pycache__
